@@ -98,7 +98,6 @@ PRODUCT_PACKAGES += \
     keystore.sdm660 \
     libsensor1 \
     libsensor_reg \
-    libthermalclient \
     libthermalfeature \
     sensors.ssc \
     camera.sdm660 \
