@@ -666,7 +666,6 @@ PRODUCT_PACKAGES += \
     libvideoutils \
     libvidhance \
     libvidhance_gyro \
-    com.fingerprints.extension@1.0 \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
     libgf_ca \
